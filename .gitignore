@@ -1,0 +1,16 @@
+
+.idea/.gitignore
+.idea/bungalow.iml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+bin/
+
+challenge_data.csv
+db.sqlite3
+lib/
+pyvenv.cfg
+
+*.pyc
